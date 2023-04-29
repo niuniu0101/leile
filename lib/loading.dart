@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:async/async.dart';
+import 'dart:async';
 
 class LoadingPages extends StatefulWidget {
   const LoadingPages();

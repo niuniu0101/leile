@@ -31,13 +31,13 @@ class MyApp extends StatelessWidget {
       // ),
       //  "search" : (BuildContext context) => new search(),
       // },
-      initialRoute: '/',
+      initialRoute: 'a',
       routes: {
-        '/': (context) => LoadingPages(),
+        'a': (context) => LoadingPages(),
         'app': (context) => AppPage(),
       },
 
-      home: new LoadingPages() ,
+      home: LoadingPages() ,
     );
   }
 }
