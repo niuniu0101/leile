@@ -1,0 +1,79 @@
+{
+   "checksum": "455df5640f1f4fa60fb59aa7ee15b808",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13327207988555782",
+            "date_last_used": "0",
+            "guid": "601edf63-eda7-45ef-be43-95bd48db45e4",
+            "id": "6",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         }, {
+            "children": [ {
+               "date_added": "13301176149560316",
+               "date_last_used": "0",
+               "guid": "395c3821-61f5-4e7f-90a4-54efe44115da",
+               "id": "8",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www1.ap.dell.com/content/default.aspx?c=cn&l=zh&s=gen"
+            }, {
+               "date_added": "13301176149568041",
+               "date_last_used": "0",
+               "guid": "a882f558-09a5-4a1c-957e-295644e5518c",
+               "id": "9",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.dell.com/support/home"
+            } ],
+            "date_added": "13327207991211121",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "bd3a6658-d93c-4dfc-b44d-68f4a9524a68",
+            "id": "7",
+            "name": "Dell",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13327207988392645",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "收藏夹栏",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13327207988392648",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13327207988392649",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
